@@ -9,3 +9,7 @@ The data for this project is accessed through an easy API developed by Kyle Rede
 
 Official site: https://covid19api.com/
 </p>
+<h4 align="center">Project Objectives</h4>
+<p aling="center">
+    Generate a choropleth map highlighting the covid hit areas. Generate circular markers for each country and display the total recovered and total deaths when clicked. Also generate a heat map.
+</p>
