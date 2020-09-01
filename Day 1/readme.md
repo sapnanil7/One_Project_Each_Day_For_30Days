@@ -13,8 +13,9 @@ Official site: https://covid19api.com/
 <p aling="center">
     Generate a choropleth map highlighting the covid hit areas. Generate circular markers for each country and display the total recovered and total deaths when clicked. Also generate a heat map.
 </p>
+<h4 align="center">Screenshots of Project Data</h4>
 <p align="center"><img src="/pictures/pic (1).png"/></p> 
-<p align="center"><img src=""/></p> 
-<p align="center"><img src=""/></p>
-<p align="center"><img src=""/></p> 
-<p align="center"><img src=""/></p> 
+<p align="center"><img src="/pictures/pic (2).png"/></p> 
+<p align="center"><img src="/pictures/pic (3).png"/></p>
+<p align="center"><img src="/pictures/pic (4).png"/></p> 
+<p align="center"><img src="/pictures/pic (5).png"/></p> 
