@@ -1,7 +1,7 @@
 <h2 align="center">Chatbot with Rasa and Python</h2>
 <h4 align="center">About the Chatbot</h4>
 <p align="center"> 
-This chatbot can give you the timezone of almost all cities. And it can reply to your questions in a preety witty way. 
+This chatbot can give you the timezone of almost all cities. And it can reply to your questions in a pretty witty way. 
 
 </p>
 <h4 align="center">Future Scope</h4>
