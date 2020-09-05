@@ -1,15 +1,11 @@
-<h2 align="center">Match The Tile Game</h2>
-<h4 align="center">About the Game</h4>
+<h2 align="center">Chatbot with Rasa and Python</h2>
+<h4 align="center">About the Chatbot</h4>
 <p align="center"> 
-Click and display any tile of the board. Match 2 same tiles on the board to clear it. Game will complete when all tiles are cleared and the board is empty.
-    
-</p>
+This chatbot can give you the timezone of almost all cities. And it can reply to your questions in a preety witty way. 
 
-<h4 align="center">Assets</h4>
-<p align="center">I have downloaded the assets from website : https://www.kenney.nl/
-Check the website out for awesome free game assets. (Free License)
 </p>
-<h4 align="center">Screenshots of Game screen</h4>
-<p align="center"><img src="/pictures/pic (7).png"/></p> 
-<h4 align="center">Video Link of the Game</h4>
-<b> <i> Click : https://www.linkedin.com/posts/sapnanil7_github-projects-pygame-activity-6707806318662705152-MBer </b> </i>
+<h4 align="center">Future Scope</h4>
+ *I am currently working on the bot to make it more witty and better. 
+ *Will include current time of all cities in the reply
+ *Because of limited timeframe features remain limited will update the final update with screenshots and video.
+
