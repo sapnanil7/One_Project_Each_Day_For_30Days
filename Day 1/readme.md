@@ -10,9 +10,9 @@ The data for this project is accessed through an easy API developed by Kyle Rede
 Official site: https://covid19api.com/
 </p>
 <h4 align="center">Dashboard</h4>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/006f2284-7e96-4115-82e1-c9670372fdd7/deploy-status)](https://app.netlify.com/sites/covidmap1/deploys)
 
-Click to view Dashboard: https://covidmap1.netlify.app/
+<b>Click to view Dashboard: https://covidmap1.netlify.app/ </b>
+
 <h4 align="center">Project Objectives</h4>
 <p aling="center">
     Generate a choropleth map highlighting the covid hit areas. Generate circular markers for each country and display the total recovered and total deaths when clicked. Also generate a heat map.
