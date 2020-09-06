@@ -5,10 +5,7 @@ This chatbot can give you the timezone of almost all cities. And it can reply to
 
 </p>
 <h4 align="center">Future Scope</h4>
- * I am currently working on the bot to make it more witty and better. 
- * Will include current time of all cities in the reply.
- * Because of limited timeframe features remain limited will update the final update with screenshots and video.
-* Bullet list
-      * Nested bullet
-           * Sub-nested bullet et
-* Bullet list item 2
+  1) I am currently working on the bot to make it more witty and better. 
+  2) Will include current time of all cities in the reply.
+  3) Because of limited timeframe features remain limited will update the final update with screenshots and video.
+
