@@ -17,6 +17,6 @@ The data set of this project is taken from the The MovieDB Database.
 <h4 align="center">Screenshots of Project Data</h4>
 <p align="center"><img src="/pictures/pic (8).png"/></p> 
 <p align="center"><img src="/pictures/pic (9).png"/></p> 
-<p align="center"><img src="/pictures/pic (10).png"/></p>
+<p align="center"><img src="/pictures/pic (10).PNG"/></p>
 
 
