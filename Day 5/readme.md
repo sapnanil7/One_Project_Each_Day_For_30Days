@@ -11,6 +11,7 @@ The data set of this project is taken from the The MovieDB Database.
     Relationship between Film Revenue and Budget. 
     Does having an Official Homepage Affect Revenue?
     Frequent Words in Film Titles and Descriptions. 
+    
     In this first part mostly I have used Seaborn to plot the data and give it graphical representation. 
     The complete project along with Plotly is in Day 6. 
 </p>
