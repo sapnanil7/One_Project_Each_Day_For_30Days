@@ -15,8 +15,8 @@ The data set of this project is taken from the The MovieDB Database.
     The complete project along with Plotly is in Day 6. 
 </p>
 <h4 align="center">Screenshots of Project Data</h4>
-<p align="center"><img src="/pictures/pic (8).png"/></p> 
-<p align="center"><img src="/pictures/pic (9).png"/></p> 
+<p align="center"><img src="/pictures/pic (8).PNG"/></p> 
+<p align="center"><img src="/pictures/pic (9).PNG"/></p> 
 <p align="center"><img src="/pictures/pic (10).PNG"/></p>
 
 
